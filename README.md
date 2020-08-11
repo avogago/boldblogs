@@ -1,1 +1,3 @@
 # boldblogs
+
+# news colors
